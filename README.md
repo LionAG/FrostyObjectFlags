@@ -1,5 +1,5 @@
 # FrostyObjectFlags
-An object flags calculator plugin for Frosty Editor.
+An object flags calculator plugin for [Frosty Editor](https://www.frostytoolsuite.com/downloads.html).
 
 ### How to install
 
